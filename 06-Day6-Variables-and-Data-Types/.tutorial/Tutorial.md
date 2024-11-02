@@ -95,5 +95,6 @@ Output:
 ```python
 {'name': 'Sakshi', 'age': 20, 'canVote': True}
 ```
+everything / every data type in python is an object
 
 ## [Next Lesson>>](https://replit.com/@codewithharry/07-Day7-Exercise-1-Create-a-Calculator)
