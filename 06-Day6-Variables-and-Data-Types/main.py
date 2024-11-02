@@ -1,5 +1,5 @@
 a = complex(8, 2)
-b = True
+b = True     # True and False are bool values
 c = "Harry"
 d = None
 print(a)
