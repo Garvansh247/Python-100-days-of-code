@@ -76,7 +76,8 @@ p is greater than 5.
 ```python
 """This is an if-else statement.
 It will execute a block of code if a specified condition is true.
-If the condition is false then it will execute another block of code."""
+If the condition is false then it will execute another block of code.""" 
+#u can use ''' Hello ''' it also instead of """Hello"""
 p = 7
 if (p > 5):
     print("p is greater than 5.")
