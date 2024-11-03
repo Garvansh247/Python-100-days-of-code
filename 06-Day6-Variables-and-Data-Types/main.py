@@ -2,6 +2,10 @@ a = complex(8, 2)
 b = True     # True and False are bool values
 c = "Harry"
 d = None
+if(None):
+    print("None has True truth value")
+else:
+    print("None has False truth value")
 print(a)
 print(b)
 a1 = 9
