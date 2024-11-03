@@ -14,6 +14,6 @@ print(name[2])
 print(name[3])
 print(name[4])
 # print(name[5]) # Throws an error
-print("Lets use a for loop\n")
+print("Lets use a for loop\n") # will print two \n because of one \n in end='\n' (by default) also
 for character in apple:
     print(character)
